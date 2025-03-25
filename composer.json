@@ -1,5 +1,5 @@
 {
-    "name": "laravelcollective/html",
+    "name": "kiranmai28/laravel_collective_html",
     "description": "HTML and Form Builders for the Laravel Framework",
     "license": "MIT",
     "homepage": "https://laravelcollective.com",
@@ -8,14 +8,7 @@
         "source": "https://github.com/LaravelCollective/html"
     },
     "authors": [
-        {
-            "name": "Adam Engebretson",
-            "email": "adam@laravelcollective.com"
-        },
-        {
-            "name": "Taylor Otwell",
-            "email": "taylorotwell@gmail.com"
-        }
+        
     ],
     "require": {
         "php": ">=7.2.5",
